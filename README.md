@@ -40,7 +40,7 @@
 [css]: https://www.w3schools.com/css/
 [sass]: https://sass-lang.com/
 [js]: https://developer.mozilla.org/pt-BR/docs/Web/JavaScript
-[react]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+[react]: https://reactjs.org/
 [gatsby]: https://www.gatsbyjs.com/
 [nodejs]: https://nodejs.org/
 [sql]: https://www.microsoft.com/en-us/sql-server/?rtc=1
