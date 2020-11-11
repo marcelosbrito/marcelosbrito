@@ -1,7 +1,7 @@
 ### Hi there, fellow < developers />! 👋
 
 
-## I'm Brazilian, Web Developer and Constant Learner!!
+## I'm a Web Developer and Constant Learner!!
 
 ### Connect with me:
 
