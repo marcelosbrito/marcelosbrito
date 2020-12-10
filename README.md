@@ -1,4 +1,4 @@
-### Hi there, fellow < developers />! 👋
+### Hello there, 👋
 
 ## I'm a Web Developer and Constant Learner!!
 
