@@ -8,6 +8,8 @@
 [<img align="left" alt="MarceloBrito | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="MarceloBrito | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="MarceloBrito | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="MarceloBrito | FCC" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/freecodecamp.svg" />][fcc]
+[<img align="left" alt="MarceloBrito | Gitlab" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gitlab.svg" />][gitlab]
 
 <br />
 
@@ -29,9 +31,11 @@
 
 ---
 
-[website]: https://marcelosbrito.github.io/marcelobrito-portfolio/
+[website]: https://marcelobrito.firebaseapp.com/
 [twitter]: https://twitter.com/86_msb
 [instagram]: https://www.instagram.com/marceloow__
+[fcc]: https://www.freecodecamp.org/marcelobrito
+[gitlab]: https://gitlab.com/marcelosbrito
 [linkedin]: https://www.linkedin.com/in/marcelo-brito-23096733
 [vscode]: https://code.visualstudio.com/
 [html]: https://www.w3schools.com/html/
