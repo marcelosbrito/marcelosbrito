@@ -32,7 +32,7 @@
 ---
 
 [website]: https://marcelobrito.firebaseapp.com/
-[twitter]: https://twitter.com/86_msb
+[twitter]: https://twitter.com/_marcelo_brito
 [instagram]: https://www.instagram.com/marceloow__
 [fcc]: https://www.freecodecamp.org/marcelobrito
 [gitlab]: https://gitlab.com/marcelosbrito
