@@ -36,7 +36,7 @@
 [instagram]: https://www.instagram.com/marceloow__
 [fcc]: https://www.freecodecamp.org/marcelobrito
 [gitlab]: https://gitlab.com/marcelosbrito
-[linkedin]: https://www.linkedin.com/in/marcelo-brito-23096733
+[linkedin]: https://www.linkedin.com/in/marcelosbrito/
 [vscode]: https://code.visualstudio.com/
 [html]: https://www.w3schools.com/html/
 [css]: https://www.w3schools.com/css/
