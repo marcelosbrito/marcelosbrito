@@ -28,6 +28,20 @@
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][terminal]
 [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlesearchconsole.svg" />][seo]
+[<svg width="100" height="100" xmlns="http://www.w3.org/2000/svg">
+
+  <style>
+    :root {
+      --icon-color: black;
+    }
+    @media (prefers-color-scheme: dark) {
+      :root {
+        --icon-color: white;
+      }
+    }
+  </style>
+  <circle cx="50" cy="50" r="40" fill="var(--icon-color)" />
+</svg>]
 
 ---
 
@@ -36,7 +50,7 @@
 [instagram]: https://www.instagram.com/marceloow__
 [fcc]: https://www.freecodecamp.org/marcelobrito
 [gitlab]: https://gitlab.com/marcelosbrito
-[linkedin]: https://www.linkedin.com/in/marcelo-brito-23096733
+[linkedin]: https://www.linkedin.com/in/marcelosbrito/
 [vscode]: https://code.visualstudio.com/
 [html]: https://www.w3schools.com/html/
 [css]: https://www.w3schools.com/css/
