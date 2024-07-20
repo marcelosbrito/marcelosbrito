@@ -35,7 +35,7 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcelosbrito)](https://github.com/anuraghazra/github-readme-stats)
+
 <div align=center>
 
   <img width=390 src="https://github-readme-stats-marcelosbrito.vercel.app/api?username=marcelosbrito&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
@@ -44,3 +44,5 @@
 </div>
 
 <br/><br/>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcelosbrito)](https://github.com/anuraghazra/github-readme-stats)
