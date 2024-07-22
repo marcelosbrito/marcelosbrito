@@ -29,8 +29,6 @@
     <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,firebase,mongodb,nextjs,sql" /><br>
 </div>
 
-<br/>
-
 <hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
@@ -38,5 +36,3 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=marcelosbrito&count_private=true&theme=react&border_radius=10)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelosbrito&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-
-<br/><br/>
